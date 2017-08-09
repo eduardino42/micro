@@ -1,0 +1,33 @@
+Data: 08/03/2017
+
+1. O que são sistemas embarcados?
+
+  Sistemas eletrônicos encapsulados com propósitos específicos.
+
+2. O que são sistemas microprocesssados?
+
+  Sistemas embarcados que utilizam microprocessadores para o controle.
+
+3. Apresente aplicações de sistemas embarcados:
+	(a) Para a indústria automotiva;
+  
+    Sensor nos assentos dos carros.
+    
+	(b) Para eletrodomésticos;
+  
+    Controle de temperatura por ar condicionado.
+    
+	(c) Para automação industrial.
+    
+    Controle de produção.
+
+4. Cite arquiteturas possíveis e as diferenças entre elas.
+
+  Computadores completos, possuem hardware e software acessível e custo elevado;
+  ASICs, circuitos integrados dedicados para determinada função, podendo ser analógico ou digital, possui custo elevado; 
+  FPGAs, placas cujo hardware pode ser modificado através de uma linguagem de descrição; 
+  Microcontroladores, são componentes programáveis em linguagem C ou assembly que respondem rápido e são mais baratos.
+
+5. Por que usamos o MSP430 na disciplina, ao invés de outro microcontrolador?
+
+  Preço acessível e versatilidade.
